@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>书约</title>
+  
+  <subtitle>与书有个约会</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-04-16T07:40:43.921Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>beeline</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>不忘初心</title>
+    <link href="http://yoursite.com/2018/04/16/%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83/"/>
+    <id>http://yoursite.com/2018/04/16/不忘初心/</id>
+    <published>2018-04-16T07:40:03.000Z</published>
+    <updated>2018-04-16T07:40:43.921Z</updated>
+    
+    <content type="html"><![CDATA[<p>不忘初心，方得始终</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;不忘初心，方得始终&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
