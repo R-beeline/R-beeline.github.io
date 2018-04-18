@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>读趣</title>
   
-  <subtitle>愿你你能在这里感受到阅读的乐趣</subtitle>
+  <subtitle>愿你能在这里感受到阅读的乐趣</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.reading-fun.cn/"/>
-  <updated>2018-04-16T07:40:43.921Z</updated>
+  <updated>2018-04-18T05:55:16.028Z</updated>
   <id>http://www.reading-fun.cn/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.reading-fun.cn/2018/04/16/%E4%B8%8D%E5%BF%98%E5%88%9D%E5%BF%83/"/>
     <id>http://www.reading-fun.cn/2018/04/16/不忘初心/</id>
     <published>2018-04-16T07:40:03.000Z</published>
-    <updated>2018-04-16T07:40:43.921Z</updated>
+    <updated>2018-04-18T05:55:16.028Z</updated>
     
     <content type="html"><![CDATA[<p>不忘初心，方得始终</p>]]></content>
     
@@ -35,6 +35,10 @@
     
     </summary>
     
+      <category term="文艺范" scheme="http://www.reading-fun.cn/categories/%E6%96%87%E8%89%BA%E8%8C%83/"/>
+    
+    
+      <category term="文艺" scheme="http://www.reading-fun.cn/tags/%E6%96%87%E8%89%BA/"/>
     
   </entry>
   
