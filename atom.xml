@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>读趣</title>
+  <title>读知趣</title>
   
-  <subtitle>愿你能在这里感受到阅读的乐趣</subtitle>
+  <subtitle>阅读，知识，乐趣</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.reading-fun.cn/"/>
